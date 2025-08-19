@@ -11,7 +11,12 @@ For Learning &amp; Practice This repository contains Python programs created for
 <img width="1107" height="503" alt="Screenshot 2025-08-13 210145" src="https://github.com/user-attachments/assets/7cff69f2-f90f-4534-b593-9d73de73b265" />
 
 
- # P2 Calculator With History Save 
+ # P2 Calculator With History
+
+ This program is a simple calculator that performs basic arithmetic operations 
+ (+, -, *, /). It saves each calculation to a history file, allows users to view 
+ past calculations, clear history, or exit the program.
+
 
 <img width="1171" height="603" alt="Screenshot 2025-08-15 105802" src="https://github.com/user-attachments/assets/891ecc74-9c6d-42f5-bfe9-ca2259bb6e6f" />
 
