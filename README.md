@@ -26,7 +26,7 @@
 
 <img width="813" height="378" alt="Screenshot 2025-08-18 225252" src="https://github.com/user-attachments/assets/aaa700c1-e15c-4b9a-8bb8-aa84222f5369" />
 
-#P4 QR Code Generator
+# P4 QR Code Generator
 
 A simple Python script that generates a QR code for a given URL using the qrcode and Pillow (PIL) libraries.
 The generated QR code is saved as an image file (Jainam_linkdin.png) and can be scanned to directly open the LinkedIn profile.
