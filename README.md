@@ -1,6 +1,3 @@
-<img width="450" height="450" alt="Jainam_linkdin" src="https://github.com/user-attachments/assets/0144d388-927b-4f7e-a2b7-fb0f1a27ca8f" /># Python-Project
-For Learning &amp; Practice This repository contains Python programs created for learning and practice purposes, covering topics like data structures, algorithms, file handling, and real-world problem-solving.
-
  # P1 Fake News HeadLine Generator
 
   This program randomly generates funny fake news headlines by combining 
