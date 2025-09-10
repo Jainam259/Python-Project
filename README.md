@@ -34,4 +34,14 @@ The generated QR code is saved as an image file (Jainam_linkdin.png) and can be 
 <img width="450" height="450" alt="Jainam_linkdin" src="https://github.com/user-attachments/assets/1e3ef53f-ebfc-4f92-ad27-c42a765d49c1" />
 
 
+# P5 Tic Tac Toe Game
+
+Tic Tac Toe Game using Python Tkinter
+
+This is a simple GUI-based Tic Tac Toe game built with Tkinter. 
+Two players take turns (X and O) to play on a 3x3 grid. 
+The game highlights the winning combination in green and 
+displays a message when a player wins.
+
+<img width="709" height="488" alt="Screenshot 2025-09-10 195759" src="https://github.com/user-attachments/assets/d7284a45-67e5-46ab-b80c-681b69fa4585" />
 
