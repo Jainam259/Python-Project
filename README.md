@@ -45,3 +45,8 @@ displays a message when a player wins.
 
 <img width="709" height="488" alt="Screenshot 2025-09-10 195759" src="https://github.com/user-attachments/assets/d7284a45-67e5-46ab-b80c-681b69fa4585" />
 
+
+# P6 Typing Speed Calculator
+
+
+
