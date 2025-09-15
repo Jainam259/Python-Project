@@ -53,4 +53,5 @@ This Python program is a typing speed test game. It checks how fast and how accu
 time() → used to record start and end times.
 random → used to pick a random sentence for typing.
 
+<img width="779" height="524" alt="Screenshot 2025-09-12 201023" src="https://github.com/user-attachments/assets/406ba7dd-f25f-4767-ae43-434281e69d54" />
 
