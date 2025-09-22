@@ -55,3 +55,10 @@ random → used to pick a random sentence for typing.
 
 <img width="779" height="524" alt="Screenshot 2025-09-12 201023" src="https://github.com/user-attachments/assets/406ba7dd-f25f-4767-ae43-434281e69d54" />
 
+# P7 Text Editor
+
+A simple text editor built with Tkinter that supports creating, opening, editing, and saving text files.  
+Features include cut, copy, paste, undo, redo, find & replace, word wrap toggle, font size adjustment,  
+and a status bar showing the current line and column.
+
+
