@@ -61,4 +61,5 @@ A simple text editor built with Tkinter that supports creating, opening, editing
 Features include cut, copy, paste, undo, redo, find & replace, word wrap toggle, font size adjustment,  
 and a status bar showing the current line and column.
 
+<img width="322" height="311" alt="Screenshot 2025-09-22 105306" src="https://github.com/user-attachments/assets/149cb94d-d475-4ea1-ac95-39513e506c8b" />
 
