@@ -1,0 +1,10 @@
+Date: 22/9/2025
+Time: 20:47
+Phone Number: +916354592403
+Message: Hello, This is a test message from PyWhatKit
+--------------------
+Date: 22/9/2025
+Time: 20:49
+Phone Number: +916354592403
+Message: Hello, This is a test message from PyWhatKit
+--------------------
