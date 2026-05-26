@@ -48,12 +48,18 @@ A simple text editor built with Tkinter that supports creating, opening, editing
 Features include cut, copy, paste, undo, redo, find & replace, word wrap toggle, font size adjustment,  
 and a status bar showing the current line and column.
 
+# P08 Image Slideshow
 
-# P8 Image Slideshow App
-
+A simple image slideshow viewer built with Tkinter that supports displaying images automatically.  
+Features include start, pause, and stop controls with smooth image transitions.
 
 # P9 Image ↔ PDF Converter
 
 A simple GUI-based Image ↔ PDF Converter built with Python Tkinter that supports converting images into PDF files and converting PDF pages into high-quality images.
 
 Features include Image → PDF conversion, PDF → HD Image conversion, file selection dialogs, save location selection, success/error popups, and preservation of image quality during conversion. The application provides a simple user interface with easy navigation and fast processing.
+
+# P10 Image Background Remover
+
+A simple AI background remover built with Tkinter that supports uploading images,  
+removing backgrounds in HD quality, previewing results, and downloading processed images.
