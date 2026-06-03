@@ -2,16 +2,13 @@
 
   This program randomly generates funny fake news headlines by combining 
   subjects, actions, and places/things. Users can choose to save the 
-  generated headlines to a file and keep generating until they quit.
-
+  generated headlines to a file and keep generating until they quit
 
  # P2 Calculator With History
 
  This program is a simple calculator that performs basic arithmetic operations 
  (+, -, *, /). It saves each calculation to a history file, allows users to view 
  past calculations, clear history, or exit the program.
-
-
 
 # P3 Password Guessing Game
  This program is a simple word-guessing game where the user selects a difficulty level 
@@ -75,3 +72,16 @@ A simple and user-friendly desktop application built with Python Tkinter that al
 📁 Choose files and save locations using file dialogs
 ⚡ Fast and lightweight application
 🖥️ Beginner-friendly design
+
+# P12 Speech to Text & Text to Speech
+
+A modern Python desktop application that converts Speech to Text and Text to Speech using a clean and interactive GUI built with CustomTkinter.
+
+✨ Features "\n"
+🎤 Convert speech into text using microphone input "\n"
+🔊 Convert text into natural speech "\n"
+🎙 Microphone selection and testing
+📊 Real-time status and progress indicators
+🌙 Modern dark-themed user interface
+🧵 Multithreading for smooth performance
+⚠️ Automatic dependency and error handling
