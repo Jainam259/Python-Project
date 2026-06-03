@@ -65,23 +65,23 @@ removing backgrounds in HD quality, previewing results, and downloading processe
 
 A simple and user-friendly desktop application built with Python Tkinter that allows users to merge multiple PDF files into a single PDF or split a PDF into individual pages with just a few clicks.
 
-✨ Features
-📑 Merge multiple PDF files into one PDF
-✂️ Split a PDF into separate page PDFs
-🎨 Clean and easy-to-use graphical interface
-📁 Choose files and save locations using file dialogs
-⚡ Fast and lightweight application
+✨ Features <br>
+📑 Merge multiple PDF files into one PDF <br>
+✂️ Split a PDF into separate page PDFs <br>
+🎨 Clean and easy-to-use graphical interface <br>
+📁 Choose files and save locations using file dialogs <br>
+⚡ Fast and lightweight application <br>
 🖥️ Beginner-friendly design
 
 # P12 Speech to Text & Text to Speech
 
 A modern Python desktop application that converts Speech to Text and Text to Speech using a clean and interactive GUI built with CustomTkinter.
 
-✨ Features "\n"
-🎤 Convert speech into text using microphone input "\n"
-🔊 Convert text into natural speech "\n"
-🎙 Microphone selection and testing
-📊 Real-time status and progress indicators
-🌙 Modern dark-themed user interface
-🧵 Multithreading for smooth performance
-⚠️ Automatic dependency and error handling
+✨ Features <br>
+🎤 Convert speech into text using microphone input <br>
+🔊 Convert text into natural speech <br>
+🎙 Microphone selection and testing <br>
+📊 Real-time status and progress indicators <br>
+🌙 Modern dark-themed user interface <br>
+🧵 Multithreading for smooth performance <br>
+⚠️ Automatic dependency and error handling <br>
