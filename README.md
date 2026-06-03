@@ -63,3 +63,5 @@ Features include Image → PDF conversion, PDF → HD Image conversion, file sel
 
 A simple AI background remover built with Tkinter that supports uploading images,  
 removing backgrounds in HD quality, previewing results, and downloading processed images.
+
+# P11 PDF Merger and Splitter
