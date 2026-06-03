@@ -65,3 +65,13 @@ A simple AI background remover built with Tkinter that supports uploading images
 removing backgrounds in HD quality, previewing results, and downloading processed images.
 
 # P11 PDF Merger and Splitter
+
+A simple and user-friendly desktop application built with Python Tkinter that allows users to merge multiple PDF files into a single PDF or split a PDF into individual pages with just a few clicks.
+
+✨ Features
+📑 Merge multiple PDF files into one PDF
+✂️ Split a PDF into separate page PDFs
+🎨 Clean and easy-to-use graphical interface
+📁 Choose files and save locations using file dialogs
+⚡ Fast and lightweight application
+🖥️ Beginner-friendly design
